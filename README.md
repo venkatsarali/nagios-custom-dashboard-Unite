@@ -3,11 +3,11 @@ Unite Dashboard will combine multiple Nagios into single dashboard. You can easi
 
 **Features:**
 
-Support multiple Nagios Application and display all servers status in single window.
-Shows number of up/down/warning hosts.
-Audio alert for any change in the service status. 
-Responsive design.
-Easy to customize.
+1. Support multiple Nagios Application and display all servers status in single window.
+2. Shows number of up/down/warning hosts.
+3. Audio alert for any change in the service status. 
+4. Responsive design
+5. Easy to customize.
 
 **Requirements:**
 
